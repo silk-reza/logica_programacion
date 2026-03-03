@@ -112,6 +112,9 @@ Estructura diaria:
 - **Fazt Code** → Hace muchos proyectos, tiene un par de cursos y siempre tiene explicaciones simples
     - [Conceptos antes de programar (Videos informativos)](https://www.youtube.com/watch?v=ImOR0o-QHOQ)
     - [Canal de programación (Cursos y proyectos)](https://www.youtube.com/watch?v=v3ENcQpoA5A&list=PLo5lAe9kQrwrEXGWvt0rqLOntSxSpRkQY)
+- **Olivia Todesco**
+    - Muy buen video. En la descripción tiene más páginas para retos y problemas de programación
+    - [¿Cómo mejorar tu Lógica de Programación?](https://www.youtube.com/watch?v=fwZA6bmgkJY)
 
 
 ---
